@@ -1,0 +1,443 @@
+[{
+    "value": "北京市",
+    "label": "北京市",
+    "children": [{
+      "value": "北京市",
+      "label": "北京市",
+      "children": [{
+          "value": "东城区",
+          "label": "东城区"
+        },
+        {
+          "value": "西城区",
+          "label": "西城区"
+        },
+        {
+          "value": "崇文区",
+          "label": "崇文区"
+        },
+        {
+          "value": "宣武区",
+          "label": "宣武区"
+        },
+        {
+          "value": "朝阳区",
+          "label": "朝阳区"
+        },
+        {
+          "value": "丰台区",
+          "label": "丰台区"
+        },
+        {
+          "value": "石景山区",
+          "label": "石景山区"
+        },
+        {
+          "value": "海淀区",
+          "label": "海淀区"
+        },
+        {
+          "value": "门头沟区",
+          "label": "门头沟区"
+        },
+        {
+          "value": "房山区",
+          "label": "房山区"
+        },
+        {
+          "value": "通州区",
+          "label": "通州区"
+        }, {
+          "value": "顺义区",
+          "label": "顺义区"
+        },
+        {
+          "value": "昌平区",
+          "label": "昌平区"
+        },
+        {
+          "value": "大兴区",
+          "label": "大兴区"
+        },
+        {
+          "value": "平谷区",
+          "label": "平谷区"
+        },
+        {
+          "value": "怀柔区",
+          "label": "怀柔区"
+        },
+        {
+          "value": "密云县",
+          "label": "密云县"
+        },
+        {
+          "value": "延庆县",
+          "label": "延庆县"
+        }
+      ]
+    }]
+  },
+  {
+    "value": "天津市",
+    "label": "天津市",
+    "children": [{
+      "value": "天津市",
+      "label": "天津市",
+      "children": [{
+          "value": "和平区",
+          "label": "和平区"
+        },
+        {
+          "value": "河东区",
+          "label": "河东区"
+        },
+        {
+          "value": "河西区",
+          "label": "河西区"
+        },
+        {
+          "value": "南开区",
+          "label": "南开区"
+        },
+        {
+          "value": "河北区",
+          "label": "河北区"
+        },
+        {
+          "value": "红桥区",
+          "label": "红桥区"
+        },
+        {
+          "value": "塘沽区",
+          "label": "塘沽区"
+        },
+        {
+          "value": "汉沽区",
+          "label": "汉沽区"
+        },
+        {
+          "value": "大港区",
+          "label": "大港区"
+        },
+        {
+          "value": "东丽区",
+          "label": "东丽区"
+        },
+        {
+          "value": "西青区",
+          "label": "西青区"
+        },
+        {
+          "value": "津南区",
+          "label": "津南区"
+        },
+        {
+          "value": "北辰区",
+          "label": "北辰区"
+        },
+        {
+          "value": "武清区",
+          "label": "武清区"
+        },
+        {
+          "value": "宝坻区",
+          "label": "宝坻区"
+        },
+        {
+          "value": "宁河县",
+          "label": "宁河县"
+        },
+        {
+          "value": "静海县",
+          "label": "静海县"
+        },
+        {
+          "value": "蓟 县",
+          "label": "蓟 县"
+        }
+      ]
+    }]
+  },
+  {
+    "value": "河北省",
+    "label": "河北省",
+    "children": [{
+        "value": "石家庄市",
+        "label": "石家庄市",
+        "children": [{
+            "value": "长安区",
+            "label": "长安区"
+          },
+          {
+            "value": "桥东区",
+            "label": "桥东区"
+          },
+          {
+            "value": "桥西区",
+            "label": "桥西区"
+          },
+          {
+            "value": "新华区",
+            "label": "新华区"
+          },
+          {
+            "value": "郊 区",
+            "label": "郊 区"
+          },
+          {
+            "value": "井陉矿区",
+            "label": "井陉矿区"
+          },
+          {
+            "value": "井陉县",
+            "label": "井陉县"
+          },
+          {
+            "value": "正定县",
+            "label": "正定县"
+          },
+          {
+            "value": "栾城县",
+            "label": "栾城县"
+          },
+          {
+            "value": "行唐县",
+            "label": "行唐县"
+          },
+          {
+            "value": "灵寿县",
+            "label": "灵寿县"
+          },
+          {
+            "value": "高邑县",
+            "label": "高邑县"
+          },
+          {
+            "value": "深泽县",
+            "label": "深泽县"
+          },
+          {
+            "value": "赞皇县",
+            "label": "赞皇县"
+          },
+          {
+            "value": "无极县",
+            "label": "无极县"
+          },
+          {
+            "value": "平山县",
+            "label": "平山县"
+          },
+          {
+            "value": "元氏县",
+            "label": "元氏县"
+          },
+          {
+            "value": "赵 县",
+            "label": "赵 县"
+          },
+          {
+            "value": "辛集市",
+            "label": "辛集市"
+          },
+          {
+            "value": "藁",
+            "label": "藁"
+          },
+          {
+            "value": "晋州市",
+            "label": "晋州市"
+          },
+          {
+            "value": "新乐市",
+            "label": "新乐市"
+          },
+          {
+            "value": "鹿泉市",
+            "label": "鹿泉市"
+          }
+        ]
+      },
+      {
+        "value": "唐山市",
+        "label": "唐山市",
+        "children": [{
+            "value": "路南区",
+            "label": "路南区"
+          },
+          {
+            "value": "路北区",
+            "label": "路北区"
+          },
+          {
+            "value": "古冶区",
+            "label": "古冶区"
+          },
+          {
+            "value": "开平区",
+            "label": "开平区"
+          },
+          {
+            "value": "新 区",
+            "label": "新 区"
+          },
+          {
+            "value": "丰润县",
+            "label": "丰润县"
+          },
+          {
+            "value": "滦 县",
+            "label": "滦 县"
+          },
+          {
+            "value": "滦南县",
+            "label": "滦南县"
+          },
+          {
+            "value": "乐亭县",
+            "label": "乐亭县"
+          },
+          {
+            "value": "迁西县",
+            "label": "迁西县"
+          },
+          {
+            "value": "玉田县",
+            "label": "玉田县"
+          },
+          {
+            "value": "唐海县",
+            "label": "唐海县"
+          },
+          {
+            "value": "遵化市",
+            "label": "遵化市"
+          },
+          {
+            "value": "丰南市",
+            "label": "丰南市"
+          },
+          {
+            "value": "迁安市",
+            "label": "迁安市"
+          }
+        ]
+      },
+      {
+        "value": "秦皇岛市",
+        "label": "秦皇岛市",
+        "children": [{
+            "value": "海港区",
+            "label": "海港区"
+          },
+          {
+            "value": "山海关区",
+            "label": "山海关区"
+          },
+          {
+            "value": "北戴河区",
+            "label": "北戴河区"
+          },
+          {
+            "value": "青龙满族自治县",
+            "label": "青龙满族自治县"
+          },
+          {
+            "value": "昌黎县",
+            "label": "昌黎县"
+          },
+          {
+            "value": "抚宁县",
+            "label": "抚宁县"
+          },
+          {
+            "value": "卢龙县",
+            "label": "卢龙县"
+          }
+        ]
+      },
+      {
+        "value": "邯郸市",
+        "label": "邯郸市",
+        "children": [{
+            "value": "邯山区",
+            "label": "邯山区"
+          },
+          {
+            "value": "丛台区",
+            "label": "丛台区"
+          },
+          {
+            "value": "复兴区",
+            "label": "复兴区"
+          },
+          {
+            "value": "峰峰矿区",
+            "label": "峰峰矿区"
+          },
+          {
+            "value": "邯郸县",
+            "label": "邯郸县"
+          },
+          {
+            "value": "临漳县",
+            "label": "临漳县"
+          },
+          {
+            "value": "成安县",
+            "label": "成安县"
+          },
+          {
+            "value": "大名县",
+            "label": "大名县"
+          },
+          {
+            "value": "涉 县",
+            "label": "涉 县"
+          },
+          {
+            "value": "磁 县",
+            "label": "磁 县"
+          },
+          {
+            "value": "肥乡县",
+            "label": "肥乡县"
+          },
+          {
+            "value": "永年县",
+            "label": "永年县"
+          },
+          {
+            "value": "邱 县",
+            "label": "邱 县"
+          },
+          {
+            "value": "鸡泽县",
+            "label": "鸡泽县"
+          },
+          {
+            "value": "广平县",
+            "label": "广平县"
+          },
+          {
+            "value": "馆陶县",
+            "label": "馆陶县"
+          },
+          {
+            "value": "魏 县",
+            "label": "魏 县"
+          },
+          {
+            "value": "曲周县",
+            "label": "曲周县"
+          },
+          {
+            "value": "武安市",
+            "label": "武安市"
+          }
+        ]
+      }
+    ]
+  }
+]
