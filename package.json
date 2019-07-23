@@ -45,7 +45,7 @@
     "style-loader": "~0.13.0",
     "url-loader": "^0.5.7",
     "webpack": "^2.2.1",
-    "webpack-dev-server": "^2.3.0"
+    "webpack-dev-server": "～2.3.0"
   },
   "keywords": [
     "es6",
