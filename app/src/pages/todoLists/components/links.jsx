@@ -1,6 +1,6 @@
 import React from 'react';
 import { connect } from 'react-redux'
-import { setVisibility } from "../../actions"
+import { setVisibility } from "../../../actions"
 
 @connect(
   (state, ownProps) => {

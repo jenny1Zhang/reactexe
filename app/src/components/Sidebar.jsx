@@ -59,6 +59,9 @@ export default class Sidebar extends React.Component {
                         <Menu.Item key="4"><Link to="/campaign">广告系列</Link></Menu.Item>
                         <Menu.Item key="5"><Link to="/steps">接入进度</Link></Menu.Item>
                     </SubMenu>
+                    <SubMenu key="sub3" title={<span>导航三</span>}>
+                        <Menu.Item key="6"><Link to="/barChart">柱状图</Link></Menu.Item>
+                    </SubMenu>
                 </Menu>
             </div>
         )

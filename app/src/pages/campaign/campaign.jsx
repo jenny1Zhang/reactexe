@@ -10,7 +10,7 @@ import 'fetch-ie8/fetch.js';
 import './campaign.less';
 
 // 引入组件
-import Title from '../components/Title.jsx';
+import Title from '../../components/Title.jsx';
 import Header from './components/header.jsx';
 
 export default class Antdes extends React.Component {
@@ -34,7 +34,7 @@ export default class Antdes extends React.Component {
 
     // 获取表格数据
     fetchTableData = () => {
-        fetch('../data/tableData.json')
+        fetch('../../data/tableData.json')
             .then((res) => { console.log(111,res);return res.json(); })
             .then((data) => { console.log(222,data); this.setState({loading:false});this.setState({tData:data.rowData}); })
             .catch((e) => { console.log(333,e.message);});

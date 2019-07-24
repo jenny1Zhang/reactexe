@@ -16,7 +16,13 @@ require('console-polyfill');
 import 'animate.css/animate.min.css';
 import './main.less';
 
-const store = createStore(todoPage);
+const store = createStore(todoPage,{
+  todos: [{
+    id: 0,
+    text: 'abc124',
+    completed: false
+  }]
+});
 
 // 配置整体组件
 export default class Init extends React.Component {

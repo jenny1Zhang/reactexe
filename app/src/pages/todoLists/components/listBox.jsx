@@ -1,6 +1,6 @@
 import React from 'react';
 import { connect } from 'react-redux';
-import { toggleTodo, deleteTodo } from '../../actions';
+import { toggleTodo, deleteTodo } from '../../../actions';
 
 const getVisibleTodos = (todos, filter) => {
 	switch (filter) {
